@@ -1,3 +1,4 @@
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
 # 蒙特卡罗方法采样算法
 
 &emsp;&emsp;蒙特卡罗方法(`Monte Carlo Simulation`)是一种随机模拟(或者统计模拟)方法。
