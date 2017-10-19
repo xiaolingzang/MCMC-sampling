@@ -1,3 +1,5 @@
+We prove that for any $s,t\ge0$ with $s+t=1$ and any $\theta\in\mathbb{R}$ with $\inf_{q\in\mathbb{N}}q^{\frac{1}{s}}\|q\theta\|>0$, the set of $y\in\mathbb{R}$ for which $(\theta,y)$ is $(s,t)$-badly approximable is 1/2-winning for Schmidt's game. As a consequence, we remove a technical assumption in a recent theorem of Badziahin-Pollington-Velani on simultaneous Diophantine approximation.
+
 # 蒙特卡罗方法采样算法
 
 &emsp;&emsp;蒙特卡罗方法(`Monte Carlo Simulation`)是一种随机模拟(或者统计模拟)方法。
